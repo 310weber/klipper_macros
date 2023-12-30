@@ -1,0 +1,3 @@
+[submodule "Klicky-Probe"]
+	path = Klicky-Probe
+	url = https://github.com/jlas1/Klicky-Probe.git
